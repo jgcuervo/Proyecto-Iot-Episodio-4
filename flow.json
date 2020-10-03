@@ -1,0 +1,1 @@
+[{"id":"fdcdd5bd.1f5008","type":"template","z":"7ba64375.d193ac","name":"","field":"payload","fieldType":"msg","format":"handlebars","syntax":"mustache","template":"{\"resultado\": \"{{global.resultado}}\"}","output":"str","x":483,"y":176,"wires":[["daccfdd6.8a873"]]}]
